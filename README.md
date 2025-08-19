@@ -199,28 +199,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🆘 Support
 
-- **Documentation**: [Wiki Pages](https://github.com/yourusername/vehiclevision-analytics/wiki)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/vehiclevision-analytics/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/vehiclevision-analytics/discussions)
-- **Email**: support@vehiclevision.com
-
-## 🎥 Demo Video
-
-[**📺 Watch the 5-minute dashboard walkthrough here**](https://youtu.be/your-video-link)
-
-The video covers:
-- Dashboard overview and key features
-- Step-by-step usage guide
-- Key investment insights and trends
-- Advanced analytics demonstration
-
-## 🏆 Awards & Recognition
-
-- 🥇 **Best Analytics Dashboard** - TechCrunch Disrupt 2024
-- 🏅 **Innovation Award** - AutoTech Summit 2024
-- 🌟 **Top 10 Startups** - Y Combinator Demo Day
 
 ---
 
